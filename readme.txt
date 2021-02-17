@@ -1,1 +1,2 @@
-Hello, this is git-it for a beaverworks course.
+Hello, this is git-it for a beaverworks course. 
+Here is an edit.
